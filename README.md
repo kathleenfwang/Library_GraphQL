@@ -1,1 +1,1 @@
-"# Library_GraphQL" 
+# GraphQL Library
